@@ -1,5 +1,6 @@
 # AsRock-Z390-Phantom-Gaming-ITX-Hackintosh-Catalina
-It's my version of EFI folders for booting Catalina 10.15.1
+It's my version of EFI folders for booting Catalina 10.15.1<br>
+I not reccomend to update Catalina to 10.15.2 because in my case eGPU lost half performace.
 
 <h3>Catalina 10.15.1 &  Native NVRAM</h3>
 
