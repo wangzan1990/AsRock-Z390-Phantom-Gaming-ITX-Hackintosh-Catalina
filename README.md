@@ -16,7 +16,7 @@ It's my version of EFI folders for booting Catalina 10.15.1
 <h2>Not working.</h2>
 <ul>
 <li>Sleep. Black display after wake up.</li>
-<li>Thunderbolt 3</li>
+<li>Thunderbolt 3. In progress. </li>
 </ul>
 
 <h2>Clover v.5103</h2>
