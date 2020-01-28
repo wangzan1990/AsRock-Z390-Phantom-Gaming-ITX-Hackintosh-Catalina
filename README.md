@@ -15,10 +15,7 @@ I not reccomend to update Catalina to 10.15.2 because in my case eGPU lost half 
 </ul>
 
 <h2>All works – sleep and TB3 and USB-C.</h2>
-<ul>
-<li>Sleep. Black display after wake up.</li>
-<li>Thunderbolt 3. In progress. </li>
-</ul>
+
 
 <h2>Clover v.5103</h2>
 <h3>UEFI Drivers</h3>
