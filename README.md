@@ -14,7 +14,7 @@ I not reccomend to update Catalina to 10.15.2 because in my case eGPU lost half 
 <li>Wi-Fi NGFF-M2.KEY.E BCM94360CS2 – From Macbook Pro</li>
 </ul>
 
-<h2>Not working.</h2>
+<h2>All works – sleep and TB3 and USB-C.</h2>
 <ul>
 <li>Sleep. Black display after wake up.</li>
 <li>Thunderbolt 3. In progress. </li>
