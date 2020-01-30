@@ -4,7 +4,8 @@ I not reccomend to update Catalina to 10.15.2 because in my case eGPU lost half 
 
 ![tonymac](https://user-images.githubusercontent.com/6239630/73441762-8d9eb300-4364-11ea-8566-80372069032c.jpg)
 
-Support&Remote install – @hackintosh_by on Telegram App
+Support&Remote install – 
+![t_logo](https://user-images.githubusercontent.com/6239630/73442388-cdb26580-4365-11ea-9ea8-e0583ad9bb86.png) @hackintosh_by on Telegram App
 
 <h3>Catalina 10.15.1 &  Native NVRAM</h3>
 
