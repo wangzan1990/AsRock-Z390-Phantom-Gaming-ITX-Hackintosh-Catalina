@@ -9,8 +9,8 @@ I not reccomend to update Catalina to 10.15.2 because in my case eGPU lost half 
 Support&Remote install on Telegram App:<br> 
 ![t_logo](https://user-images.githubusercontent.com/6239630/73442546-179b4b80-4366-11ea-9a1e-1e96102aa86c.png) @hackintosh_by 
 
-<h3>Catalina 10.15.1 &  Native NVRAM</h3>
-
+<h3>Catalina 10.15.3 &  Native NVRAM</h3>
+<h2>SMIBIOS IMAC 19.1, Clover v5103</h2>
 <h2>Hardware</h2>
 <ul>
 <li>Intel i7 8700K</li>
@@ -26,31 +26,6 @@ Support&Remote install on Telegram App:<br>
 
 ![Screen Shot 2020-01-23 at 01 55 02](https://user-images.githubusercontent.com/6239630/73441672-6811a980-4364-11ea-9a9d-8fa5576e271b.png)
 
-<h2>Clover v.5103</h2>
-<h3>UEFI Drivers</h3>
-<ul>
-<li>ApfsDriverLoader-64.efi</li>
-<li>AptioMemoryFix-64.efi</li>
-<li>VBoxHfs.efi</li>
-<li>VurtualSMC.efi</li>
-</ul>
-
-<h3>Kexts</h3>
-<ul>
-<li>ApfsDriverLoader-64.efi</li>
-<li>AptioMemoryFix-64.efi</li>
-<li>VBoxHfs.efi</li>
-<li>VurtualSMC.efi</li>
-</ul>
-
-<h3>ACPI Patches</h3>
-<ul>
-<li>IntelMausiEthernet.kext</li>
-<li>AppleALC.kext</li>
-<li>USBports.kext</li>
-<li>Lilu.kext</li>
-<li>VurtualSMC.kext</li>
-</ul>
 
 <h2>Tests&Benchmarks</h2>
 
