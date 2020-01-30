@@ -2,8 +2,9 @@
 
 ![tonymac](https://user-images.githubusercontent.com/6239630/73441762-8d9eb300-4364-11ea-8566-80372069032c.jpg)
 
-It's my version of EFI folders for booting Catalina 10.15.1<br>
+It's my version of EFI folders for booting Catalina 10.15.3. U may download latest EFI only from Release tab.<br>
 I not reccomend to update Catalina to 10.15.2 because in my case eGPU lost half performace.
+UPD. After updated to 10.15.3 GPU performance was fixed.
 
 
 Support&Remote install on Telegram App:<br> 
