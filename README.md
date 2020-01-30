@@ -1,11 +1,13 @@
 # AsRock-Z390-Phantom-Gaming-ITX-Hackintosh-Catalina
-It's my version of EFI folders for booting Catalina 10.15.1<br>
-I not reccomend to update Catalina to 10.15.2 because in my case eGPU lost half performace.
 
 ![tonymac](https://user-images.githubusercontent.com/6239630/73441762-8d9eb300-4364-11ea-8566-80372069032c.jpg)
 
-Support&Remote install: <br> 
-![t_logo](https://user-images.githubusercontent.com/6239630/73442546-179b4b80-4366-11ea-9a1e-1e96102aa86c.png) @hackintosh_by on Telegram App
+It's my version of EFI folders for booting Catalina 10.15.1<br>
+I not reccomend to update Catalina to 10.15.2 because in my case eGPU lost half performace.
+
+
+Support&Remote install on Telegram App:<br> 
+![t_logo](https://user-images.githubusercontent.com/6239630/73442546-179b4b80-4366-11ea-9a1e-1e96102aa86c.png) @hackintosh_by 
 
 <h3>Catalina 10.15.1 &  Native NVRAM</h3>
 
