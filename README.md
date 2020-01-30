@@ -2,6 +2,10 @@
 It's my version of EFI folders for booting Catalina 10.15.1<br>
 I not reccomend to update Catalina to 10.15.2 because in my case eGPU lost half performace.
 
+![tonymac](https://user-images.githubusercontent.com/6239630/73441762-8d9eb300-4364-11ea-8566-80372069032c.jpg)
+
+Support&Remote install – @hackintosh_by on Telegram App
+
 <h3>Catalina 10.15.1 &  Native NVRAM</h3>
 
 <h2>Hardware</h2>
@@ -14,9 +18,10 @@ I not reccomend to update Catalina to 10.15.2 because in my case eGPU lost half 
 <li>Wi-Fi NGFF-M2.KEY.E BCM94360CS2 – From Macbook Pro</li>
 </ul>
 
-<h2>Clovet – all works – sleep and TB3 and USB-C.</h2>
+<h2>Clover – all works – sleep and TB3 and USB-C.</h2>
 <h2>OpenCore – USB-C and TB3 works but sleep not. Problem with wake up.</h2>
 
+![Screen Shot 2020-01-23 at 01 55 02](https://user-images.githubusercontent.com/6239630/73441672-6811a980-4364-11ea-9a9d-8fa5576e271b.png)
 
 <h2>Clover v.5103</h2>
 <h3>UEFI Drivers</h3>
