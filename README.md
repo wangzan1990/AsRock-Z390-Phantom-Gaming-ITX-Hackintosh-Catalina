@@ -1,5 +1,7 @@
 # AsRock-Z390-Phantom-Gaming-ITX-Hackintosh-Catalina
 
+Donate » https://money.yandex.ru/to/41001643979033
+
 ![tonymac](https://user-images.githubusercontent.com/6239630/73441762-8d9eb300-4364-11ea-8566-80372069032c.jpg)
 
 It's my version of EFI folders for booting Catalina 10.15.3. U may download latest EFI only from Release tab.<br>
